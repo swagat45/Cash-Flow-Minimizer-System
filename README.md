@@ -66,4 +66,3 @@ Below is the execution of our current example:
 ![image](https://user-images.githubusercontent.com/54183085/110011598-a33f9280-7d45-11eb-9499-a2868924cefd.png)
 
 Thank you!!
-Happy learning :)
